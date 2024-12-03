@@ -1,0 +1,50 @@
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+
+# macOS generated metadata files
+*.swp
+.DS_Store
+.metadata_never_index
+.logs
+
+# Temporary and cache files
+.idea/
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# macOS-specific system files
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+.VolumeIcon.icns
+.AppleDouble
+
+# Other
+*.lock
+*.env
+*.pyc
+*.pyo
+*.log
+*.sql
+*.sqlite
+
