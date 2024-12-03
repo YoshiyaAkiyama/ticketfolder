@@ -4,11 +4,10 @@
 # @raycast.schemaVersion 1
 # @raycast.title tf
 # @raycast.mode silent
-
+# @raycast.description generate folder with ticket id name first executions.  Opens that folder from next execution 
 # Optional parameters:
 # @raycast.icon 🤖
 
-# Function to display a dialog and return the entered text
 
 check_and_install_ggrep() {
   echo "Checking if ggrep is installed..."

@@ -3,12 +3,10 @@
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title mf
-# @raycast.mode fullOutput
-
+# @raycast.mode silent
+# @raycast.description Moves file to most recent tf folder.
 # Optional parameters:
 # @raycast.icon 🤖
-
-#!/bin/bash
 
 homePath="$HOME"
 configFilePath=$homePath/tickets/current_ticket
