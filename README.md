@@ -2,8 +2,9 @@
 This repo is for raycast script used on Mac to generate
 Generates ticket folder to manage cases.
 Currently there are 2 scripts.
-- mf
 - tf
+- mf
+
 
 tf generates ticket folder using ticket id(numerical value that is 7 digit or more) within clipboard.
 Once a folder is generated, tf will open that folder.
